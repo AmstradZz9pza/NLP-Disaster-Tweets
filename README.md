@@ -1,1 +1,6 @@
-# NLP-Disaster-Tweets
+# NLP to Classify Disaster Tweets
+This project focuses on building a machine learning model to classify tweets as either related to a real disaster or not. In times of emergency, platforms like Twitter serve as rapid, real-time communication channels where individuals often post about events they're witnessing—such as earthquakes, floods, or fires. The widespread availability of smartphones makes it easier than ever for people to share information as it unfolds.
+
+However, identifying useful, actionable content is a challenge. Not all tweets that mention words like "fire" or "explosion" are reporting real disasters. Many may use dramatic language metaphorically or in unrelated contexts (e.g., “my performance was on fire!”). This ambiguity makes it difficult for emergency response teams, humanitarian organizations, and news agencies to monitor Twitter effectively using simple keyword searches.
+
+The goal of this task is to train a classifier that can distinguish between tweets that are truly about disasters and those that are not. Accurate classification can help surface critical information more quickly and reduce the time and effort spent manually filtering through irrelevant posts.
